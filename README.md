@@ -1,4 +1,7 @@
-## ![Netflix Logo](path_to_image_in_repo)
+
+
+![image](https://github.com/user-attachments/assets/d9595cd0-2b5a-480c-b0f9-368e76cfafc0)
+
 
 ## 📊 Netflix Data Analysis
 
@@ -27,7 +30,14 @@ Drama and International Movies dominate Netflix’s catalog.
 ## 5. Content Ratings
 Most Netflix content is rated TV-MA (mature audiences) and TV-14 (parental guidance).
 ## 🔧 Tools Used
-Python: For data cleaning (pandas, plotly).
-Plotly: For creating interactive visualizations.
+*Python*: For data cleaning (pandas, plotly).
+
+*Tableau*: for creating visual dashboards.
+
+*Plotly*: for visualizing data trends and patterns in Python.
+
+## Conclusion
+This analysis highlights key trends on Netflix, such as the dominance of movies, the leading countries producing content, and the most popular genres. It also demonstrates the challenges in handling missing data and offers solutions to fill in the gaps logically. The visualizations provide a clear picture of how Netflix's catalog has evolved over the years.
+
 
 ## Follow me on https://www.linkedin.com/in/mohan-krishna-kola/
